@@ -1,0 +1,2 @@
+# hazrd
+my aleo miner 
